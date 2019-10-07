@@ -1,15 +1,7 @@
 package model;
  
 
- /*
- +++++++++++++++++++++++++++++++++++
- oooooo   ooooooo   oooooo   ooooooo
- o    o   o     o	o	 o   o     o
- oooooo   o     o   oooooo   o	   o
- o        o     o   o        o	   o
- o        ooooooo   o        ooooooo
- +++++++++++++++++++++++++++++++++++
- */
+
 public class Legion {
 	
 	//+++++++++++++++++++++++++++++++++++++++++++
